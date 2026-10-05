@@ -1,0 +1,6 @@
+{
+  "name": "CYBERTAG: 3D Multiplayer Laser Arena",
+  "description": "Massive multiplayer first-person laser tag game featuring real-time combat, global competitive leaderboards, dynamic sound synthesis, and customizable arena layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
